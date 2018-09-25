@@ -1,0 +1,10 @@
+* Data on the internet travel through fiber optic cables. these
+* The IP Address is like a house address but for a computer. The DNS is the Domain Name System. This means that users can find IP address through a domain name like www.google.com without knowing the IP address of the computer related that domain.
+* cookies are information a computer gets left to represent a person. for example if someone is logging into facebook the computer will be left cookies so that in the future the computer can relate that address to that person logging in.
+* The most common parts of a URL are
+
+ 1. Protocol- which determines what a web browser should do. Http is the most common.
+ 2. Domain name- this identifies the website.
+ 3. Path- this refers to a file on the website.
+
+![Image of my screen](./Images/screenshott.png)
